@@ -1,7 +1,18 @@
-﻿document.write(' <li><a class="item active" href="index.html">strona główna</a></li>');
-document.write(' <li><a class="item" href="osobie.html">o sobie</a></li>'); 
-document.write('  <li><a class="item" href="program_wyborczy.html">program wyborczy</a></li>');
-document.write('<li><a class="item" href="referencje.html">referencje</a></li>');
-document.write(' <li><a class="item" href="galeria.html">galeria</a></li>');
-document.write('<li><a class="item" href="kontakt.html">kontakt</a></li>'); 
+﻿var menu = [ [ "index.php", "strona główna" ], [ "osobie.php", "o sobie" ],
+		[ "program_wyborczy.php", "program wyborczy" ],
+		[ "referencje.php", "referencje" ], [ "galeria.php", "galeria" ],
+		[ "kontakt.php", "kontakt" ] ];
 
+for (index = 0; index < menu.length; ++index) {
+
+	var n = document.URL.indexOf(menu[index][0]);
+	var isActive = "";
+	if (n > 0) {
+		isActive = "item active";
+	} else {
+		isActive = "item";
+	}
+	document.write('<li><a class="' + isActive + '" href="' + menu[index][0]
+			+ '">' + menu[index][1] + '</a></li>');
+
+}
