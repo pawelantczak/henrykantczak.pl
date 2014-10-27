@@ -20,7 +20,7 @@
 							src="images/henryk_antczak2a.jpg" border=0></td>
 						<td width="65%"><div id="tekst">
 								<br>
-								<br> Zapraszam do kontaktu ze mn¹ poprzez adres<br>
+								<br> Zapraszam do kontaktu ze mnÄ… poprzez adres<br>
 
 								e-mail h.antczak@mazovia.pl<br>
 								<br> <b>Henryk Antczak</b><br>

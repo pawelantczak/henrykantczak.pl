@@ -27,17 +27,17 @@
 
 						<td width="70%"><div id="tekst">
 								<b>Odznaczenia</b><br>
-								<br> Srebrny Krzyø Zas≥ugi - przyznany przez Prezydenta RP<br>
-								<br> Srebrny Medal Opiekuna Miejsc PamiÍci Narodowej,<br>
-								<br> Z≥oty i Srebrny Medal Za Zas≥ugi Dla Poøarnictwa,<br>
-								<br> Brπzowy Medal Za Zas≥ugi Dla Obronnoúci Kraju,<br>
-								<br> Srebrny Medal Im. Jana KiliÒskiego,<br>
-								<br> Z≥ota Odznaka Za Zas≥ugi Dla Ochrony årodowiska,<br>
-								<br> Odznaka Honorowa Za Zas≥ugi dla Oúwiaty,<br>
-								<br> Odznaka Zas≥uøony Dzia≥acz Kultury,<br>
-								<br> Oraz wiele innych odznaczeÒ branøowych w tym Z≥oty
-								Znak Zwiπzku OSP,<br>
-								<br> oraz najwyøsze odznaczenie OSP Medal im. Chomicza<br>
+								<br> Srebrny Krzy≈º Zas≈Çugi - przyznany przez Prezydenta RP<br>
+								<br> Srebrny Medal Opiekuna Miejsc Pamiƒôci Narodowej,<br>
+								<br> Z≈Çoty i Srebrny Medal Za Zas≈Çugi Dla Po≈ºarnictwa,<br>
+								<br> BrƒÖzowy Medal Za Zas≈Çugi Dla Obronno≈õci Kraju,<br>
+								<br> Srebrny Medal Im. Jana Kili≈Ñskiego,<br>
+								<br> Z≈Çota Odznaka Za Zas≈Çugi Dla Ochrony ≈örodowiska,<br>
+								<br> Odznaka Honorowa Za Zas≈Çugi dla O≈õwiaty,<br>
+								<br> Odznaka Zas≈Çu≈ºony Dzia≈Çacz Kultury,<br>
+								<br> Oraz wiele innych odznacze≈Ñ bran≈ºowych w tym Z≈Çoty
+								Znak ZwiƒÖzku OSP,<br>
+								<br> oraz najwy≈ºsze odznaczenie OSP Medal im. Chomicza<br>
 								<br>
 
 							</div>

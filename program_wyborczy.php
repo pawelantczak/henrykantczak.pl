@@ -70,96 +70,96 @@
 
 
 						<td width="70%"><div id="tekst">
-								Celem dzia³ania PSL jest budowa silnego, niepodleg³ego,
-								demokratycznego, wolnego pañstwa. Stwarzamy warunki do godnego
-								¿ycia obywateli i wszechstronnego rozwoju ka¿dego cz³owieka.
-								Przedstawiciele Stronnictwa w Sejmie i w rz¹dzie dok³adaj¹
-								wszelkich starañ, aby ca³e spo³eczeñstwo mog³o mieæ zapewnione
-								lepsze ¿ycie i szanse rozwoju. Dla nas cz³owiek jest
-								najwa¿niejszy, jego godnoœæ, podmiotowoœæ i szczêœcie.<br>
-								<br> <b>Bezpieczeñstwo Spo³eczne</b><br> Do³o¿ymy
-								starañ, ¿eby ka¿dy obywatel naszego kraju mia³ pracê, uleg³a
-								wyraŸnej poprawie sytuacja materialna polskich rodzin, a emeryci
-								i renciœci mieli godne œwiadczenia. Stworzymy system polityki
-								rodzinnej zapewniaj¹cej wsparcie funkcjonowania rodzin
-								wychowuj¹cych dzieci. Zadbamy o dobry dostêp do opieki
-								medycznej, w tym przywrócenie opieki lekarskiej,
-								stomatologicznej i pielêgniarskiej w szko³ach.<br>
-								<br> Utrzymamy oddzielny udoskonalony system ubezpieczeñ
-								dla rolników (KRUS). Rozszerzymy ochronê emerytaln¹ przez
-								wprowadzenie emerytury obywatelskiej. Wprowadzimy dobrowolnoœæ
-								przynale¿noœci do otwartych funduszy emerytalnych. Bêdziemy
-								podnosiæ poziom oœwiaty w kraju i wyrównywaæ szanse edukacyjne
-								dzieci i m³odzie¿y, zw³aszcza w œrodowiskach biednych.
-								Wprowadzimy program bezp³atnego zaopatrzenia uczniów szkó³
-								podstawowych, gimnazjów i œrednich w podrêczniki i inne pomoce
+								Celem dziaÅ‚ania PSL jest budowa silnego, niepodlegÅ‚ego,
+								demokratycznego, wolnego paÅ„stwa. Stwarzamy warunki do godnego
+								Å¼ycia obywateli i wszechstronnego rozwoju kaÅ¼dego czÅ‚owieka.
+								Przedstawiciele Stronnictwa w Sejmie i w rzÄ…dzie dokÅ‚adajÄ…
+								wszelkich staraÅ„, aby caÅ‚e spoÅ‚eczeÅ„stwo mogÅ‚o mieÄ‡ zapewnione
+								lepsze Å¼ycie i szanse rozwoju. Dla nas czÅ‚owiek jest
+								najwaÅ¼niejszy, jego godnoÅ›Ä‡, podmiotowoÅ›Ä‡ i szczÄ™Å›cie.<br>
+								<br> <b>BezpieczeÅ„stwo SpoÅ‚eczne</b><br> DoÅ‚oÅ¼ymy
+								staraÅ„, Å¼eby kaÅ¼dy obywatel naszego kraju miaÅ‚ pracÄ™, ulegÅ‚a
+								wyraÅºnej poprawie sytuacja materialna polskich rodzin, a emeryci
+								i renciÅ›ci mieli godne Å›wiadczenia. Stworzymy system polityki
+								rodzinnej zapewniajÄ…cej wsparcie funkcjonowania rodzin
+								wychowujÄ…cych dzieci. Zadbamy o dobry dostÄ™p do opieki
+								medycznej, w tym przywrÃ³cenie opieki lekarskiej,
+								stomatologicznej i pielÄ™gniarskiej w szkoÅ‚ach.<br>
+								<br> Utrzymamy oddzielny udoskonalony system ubezpieczeÅ„
+								dla rolnikÃ³w (KRUS). Rozszerzymy ochronÄ™ emerytalnÄ… przez
+								wprowadzenie emerytury obywatelskiej. Wprowadzimy dobrowolnoÅ›Ä‡
+								przynaleÅ¼noÅ›ci do otwartych funduszy emerytalnych. BÄ™dziemy
+								podnosiÄ‡ poziom oÅ›wiaty w kraju i wyrÃ³wnywaÄ‡ szanse edukacyjne
+								dzieci i mÅ‚odzieÅ¼y, zwÅ‚aszcza w Å›rodowiskach biednych.
+								Wprowadzimy program bezpÅ‚atnego zaopatrzenia uczniÃ³w szkÃ³Å‚
+								podstawowych, gimnazjÃ³w i Å›rednich w podrÄ™czniki i inne pomoce
 								naukowe.<br>
-								<br> <b>Bezpieczeñstwo ¯ywnoœciowe</b><br> Priorytetem
-								dla PSL jest jak najpe³niejsze wykorzystanie potencja³u
-								produkcyjnego polskiego rolnictwa. Zadbamy o bezpieczeñstwo
-								¿ywnoœciowe kraju, zapewnimy dostatek zdrowej ¿ywnoœci po
-								umiarkowanej cenie dla konsumentów. Poszerzymy programy wsparcia
-								dla zbiorowej konsumpcji zdrowej ¿ywnoœci w szko³ach. Do³o¿ymy
-								starañ, ¿eby Wspólna Polityka Rolna Unii Europejskiej zachowa³a
-								swój wspólnotowy charakter, szczególnie w zakresie finansowania
-								z bud¿etu UE w nie mniejszej ni¿ dotychczas kwocie. Uproœcimy
-								procedury ubiegania siê o dop³aty bezpoœrednie. Wprowadzimy
-								u³atwienia w bezpoœredniej sprzeda¿y p³odów rolnych i produktów
+								<br> <b>BezpieczeÅ„stwo Å»ywnoÅ›ciowe</b><br> Priorytetem
+								dla PSL jest jak najpeÅ‚niejsze wykorzystanie potencjaÅ‚u
+								produkcyjnego polskiego rolnictwa. Zadbamy o bezpieczeÅ„stwo
+								Å¼ywnoÅ›ciowe kraju, zapewnimy dostatek zdrowej Å¼ywnoÅ›ci po
+								umiarkowanej cenie dla konsumentÃ³w. Poszerzymy programy wsparcia
+								dla zbiorowej konsumpcji zdrowej Å¼ywnoÅ›ci w szkoÅ‚ach. DoÅ‚oÅ¼ymy
+								staraÅ„, Å¼eby WspÃ³lna Polityka Rolna Unii Europejskiej zachowaÅ‚a
+								swÃ³j wspÃ³lnotowy charakter, szczegÃ³lnie w zakresie finansowania
+								z budÅ¼etu UE w nie mniejszej niÅ¼ dotychczas kwocie. UproÅ›cimy
+								procedury ubiegania siÄ™ o dopÅ‚aty bezpoÅ›rednie. Wprowadzimy
+								uÅ‚atwienia w bezpoÅ›redniej sprzedaÅ¼y pÅ‚odÃ³w rolnych i produktÃ³w
 								wytworzonych w gospodarstwie rolnym. Udzielimy wsparcia
-								kredytowego i podatkowego gospodarstwom inwestuj¹cym w rozwój i
-								poprawê wyposa¿enia produkcyjnego, zw³aszcza w gospodarstwach
-								m³odych rolników.<br>
-								<br> <b>Bezpieczeñstwo Gospodarcze</b><br> Opowiadamy
-								siê za stabilnym i zrównowa¿onym rozwojem polskiej gospodarki,
-								której najwiêkszym kapita³em jest cz³owiek. Zwiêkszymy rolê
-								przedsiêbiorców w tworzeniu prawa sprzyjaj¹cego powstawaniu
-								nowych miejsc pracy. Bêdziemy rozwijaæ kontakty handlowe Polski
-								z Uni¹ Europejsk¹, Wschodem i najwiêkszymi potêgami
-								ekonomicznymi œwiata. Bêdziemy kontynuowaæ wsparcie aktywnoœci i
-								innowacyjnoœci, w tym szerokie wykorzystanie technologii
-								informatycznych. Konsekwentnie bêdziemy uwalniaæ gospodarkê z
-								biurokratycznych ograniczeñ. Bêdziemy wspieraæ aktywnoœæ i
-								innowacyjnoœæ polskich przedsiêbiorców. Przyspieszymy budowê
-								inwestycji energetycznych i transportowych. Utrzymamy dobr¹
-								tendencjê inwestycyjn¹ w Polsce.<br>
-								<br> Chcemy wprowadzenia systemu ulg podatkowych i u³atwieñ
-								zachêcaj¹cych inwestorów do tworzenia nowych miejsc pracy.
-								Rozwiniemy produkcjê energii ze Ÿróde³ odnawialnych. Opowiadamy
-								siê za bezpiecznym i korzystnym dla pañstwa wydobyciem gazu
-								³upkowego. Uwa¿amy, ¿e budowa elektrowni atomowych w Polsce
-								powinna byæ poprzedzona gruntown¹ debat¹ spo³eczn¹ i
-								ogólnopolskim referendum w sprawie rozwoju energetyki j¹drowej w
-								Polsce. Wprowadzimy instytucjê Rzecznika Przedsiêbiorców.
-								Zapewnimy równoprawn¹ pozycjê kredytobiorców i banków w procesie
-								udzielania i sp³aty kredytu. Bêdziemy inicjowaæ i wspieraæ
-								tworzenie korzystnych warunków do rozwoju spó³dzielczoœci.<br>
-								<br> <b>Bezpieczeñstwo Œrodowiska</b><br> Zadbamy o
-								rozwój cz³owieka w czystym i zdrowym œrodowisku naturalnym.
-								Bêdziemy dzia³aæ na rzecz promowania postaw traktuj¹cych
-								œrodowisko naturalne jako dobro ogólnonarodowe. Zapewnimy
-								warunki do rozwoju gospodarki w zgodnoœci z wymogami ochrony
-								œrodowiska. Zdecydowane przyspieszenie rozwoju energetyki
-								odnawialnej bêdzie nie tylko wype³nieniem przyjêtych zobowi¹zañ
-								miêdzynarodowych, ale wp³ynie tak¿e na poprawê bezpieczeñstwa
-								energetycznego. Ochronimy bêd¹ce dobrem narodowym lasy pañstwowe
-								przed prywatyzacj¹. Priorytetowo potraktujemy ochronê
-								zagro¿onych powodziami terenów Polski.<br>
-								<br> <b>Bezpieczeñstwo Pañstwa</b><br> Polska to 40
-								mln obywateli, mieszkaj¹cych zarówno w kraju jak i poza jego
-								granicami. Obywatele w swoim kraju maj¹ prawo czuæ siê
-								bezpiecznie. Dla zapewnienia bezpieczeñstwa pañstwa potrzebne
-								jest porozumienie i dialog wszystkich si³ politycznych.
-								Militarne bezpieczeñstwo zapewni Polsce tylko dobrze
-								zorganizowana, nowoczeœnie wyposa¿ona i sprawnie dowodzona
-								armia. Niezmiernie istotne dla bezpieczeñstwa kraju jest
-								przygotowanie s³u¿b pañstwowych do zapobiegania aktom terroru i
+								kredytowego i podatkowego gospodarstwom inwestujÄ…cym w rozwÃ³j i
+								poprawÄ™ wyposaÅ¼enia produkcyjnego, zwÅ‚aszcza w gospodarstwach
+								mÅ‚odych rolnikÃ³w.<br>
+								<br> <b>BezpieczeÅ„stwo Gospodarcze</b><br> Opowiadamy
+								siÄ™ za stabilnym i zrÃ³wnowaÅ¼onym rozwojem polskiej gospodarki,
+								ktÃ³rej najwiÄ™kszym kapitaÅ‚em jest czÅ‚owiek. ZwiÄ™kszymy rolÄ™
+								przedsiÄ™biorcÃ³w w tworzeniu prawa sprzyjajÄ…cego powstawaniu
+								nowych miejsc pracy. BÄ™dziemy rozwijaÄ‡ kontakty handlowe Polski
+								z UniÄ… EuropejskÄ…, Wschodem i najwiÄ™kszymi potÄ™gami
+								ekonomicznymi Å›wiata. BÄ™dziemy kontynuowaÄ‡ wsparcie aktywnoÅ›ci i
+								innowacyjnoÅ›ci, w tym szerokie wykorzystanie technologii
+								informatycznych. Konsekwentnie bÄ™dziemy uwalniaÄ‡ gospodarkÄ™ z
+								biurokratycznych ograniczeÅ„. BÄ™dziemy wspieraÄ‡ aktywnoÅ›Ä‡ i
+								innowacyjnoÅ›Ä‡ polskich przedsiÄ™biorcÃ³w. Przyspieszymy budowÄ™
+								inwestycji energetycznych i transportowych. Utrzymamy dobrÄ…
+								tendencjÄ™ inwestycyjnÄ… w Polsce.<br>
+								<br> Chcemy wprowadzenia systemu ulg podatkowych i uÅ‚atwieÅ„
+								zachÄ™cajÄ…cych inwestorÃ³w do tworzenia nowych miejsc pracy.
+								Rozwiniemy produkcjÄ™ energii ze ÅºrÃ³deÅ‚ odnawialnych. Opowiadamy
+								siÄ™ za bezpiecznym i korzystnym dla paÅ„stwa wydobyciem gazu
+								Å‚upkowego. UwaÅ¼amy, Å¼e budowa elektrowni atomowych w Polsce
+								powinna byÄ‡ poprzedzona gruntownÄ… debatÄ… spoÅ‚ecznÄ… i
+								ogÃ³lnopolskim referendum w sprawie rozwoju energetyki jÄ…drowej w
+								Polsce. Wprowadzimy instytucjÄ™ Rzecznika PrzedsiÄ™biorcÃ³w.
+								Zapewnimy rÃ³wnoprawnÄ… pozycjÄ™ kredytobiorcÃ³w i bankÃ³w w procesie
+								udzielania i spÅ‚aty kredytu. BÄ™dziemy inicjowaÄ‡ i wspieraÄ‡
+								tworzenie korzystnych warunkÃ³w do rozwoju spÃ³Å‚dzielczoÅ›ci.<br>
+								<br> <b>BezpieczeÅ„stwo Åšrodowiska</b><br> Zadbamy o
+								rozwÃ³j czÅ‚owieka w czystym i zdrowym Å›rodowisku naturalnym.
+								BÄ™dziemy dziaÅ‚aÄ‡ na rzecz promowania postaw traktujÄ…cych
+								Å›rodowisko naturalne jako dobro ogÃ³lnonarodowe. Zapewnimy
+								warunki do rozwoju gospodarki w zgodnoÅ›ci z wymogami ochrony
+								Å›rodowiska. Zdecydowane przyspieszenie rozwoju energetyki
+								odnawialnej bÄ™dzie nie tylko wypeÅ‚nieniem przyjÄ™tych zobowiÄ…zaÅ„
+								miÄ™dzynarodowych, ale wpÅ‚ynie takÅ¼e na poprawÄ™ bezpieczeÅ„stwa
+								energetycznego. Ochronimy bÄ™dÄ…ce dobrem narodowym lasy paÅ„stwowe
+								przed prywatyzacjÄ…. Priorytetowo potraktujemy ochronÄ™
+								zagroÅ¼onych powodziami terenÃ³w Polski.<br>
+								<br> <b>BezpieczeÅ„stwo PaÅ„stwa</b><br> Polska to 40
+								mln obywateli, mieszkajÄ…cych zarÃ³wno w kraju jak i poza jego
+								granicami. Obywatele w swoim kraju majÄ… prawo czuÄ‡ siÄ™
+								bezpiecznie. Dla zapewnienia bezpieczeÅ„stwa paÅ„stwa potrzebne
+								jest porozumienie i dialog wszystkich siÅ‚ politycznych.
+								Militarne bezpieczeÅ„stwo zapewni Polsce tylko dobrze
+								zorganizowana, nowoczeÅ›nie wyposaÅ¼ona i sprawnie dowodzona
+								armia. Niezmiernie istotne dla bezpieczeÅ„stwa kraju jest
+								przygotowanie sÅ‚uÅ¼b paÅ„stwowych do zapobiegania aktom terroru i
 								cyber-atakom. Doprowadzimy do zbudowania systemu skutecznego
-								reagowania w przypadku wyst¹pienia katastrof i klêsk
-								¿ywio³owych, usuwania ich skutków oraz niesienia pomocy ich
-								ofiarom. Bêdziemy tworzyæ organizacyjne i finansowe warunki do
-								wyposa¿enia w nowoczesny sprzêt pañstwowych i ochotniczych s³u¿b
+								reagowania w przypadku wystÄ…pienia katastrof i klÄ™sk
+								Å¼ywioÅ‚owych, usuwania ich skutkÃ³w oraz niesienia pomocy ich
+								ofiarom. BÄ™dziemy tworzyÄ‡ organizacyjne i finansowe warunki do
+								wyposaÅ¼enia w nowoczesny sprzÄ™t paÅ„stwowych i ochotniczych sÅ‚uÅ¼b
 								ratowniczych - PSP, OSP, GOPR, TOPR, WOPR.<br>
-								<br> „ ..... a Polska winna trwaæ wiecznie." <b>Wincenty
+								<br> â€ž ..... a Polska winna trwaÄ‡ wiecznie." <b>Wincenty
 									Witos</b>
 							</div>
 							<br>

@@ -25,10 +25,10 @@
 										src="images/czlowiek_jest_najwazniejszy4.png" /> </a></td>
 									<td width="65%"><font class color=#ffffff>
 											<div id="tekst">
-												<b>Henryk Antczak.</b> W latach 1994 ñ 2002 pe≥ni≥ funkcje
-												Burmistrza Miasta M≥awy. Obecnie Skarbnik Miasta M≥awy i
-												Radny Sejmiku WojewÛdztwa Mazowieckiego (druga kadencja)
-												oraz Przewodniczπcy Komisji Budøetu i FinansÛw. <br> <br>
+												<b>Henryk Antczak.</b> W latach 1994 ‚Äì 2002 pe≈Çni≈Ç funkcje
+												Burmistrza Miasta M≈Çawy. Obecnie Skarbnik Miasta M≈Çawy i
+												Radny Sejmiku Wojew√≥dztwa Mazowieckiego (druga kadencja)
+												oraz PrzewodniczƒÖcy Komisji Bud≈ºetu i Finans√≥w. <br> <br>
 											</div>
 									</font> </font>
 										</p></td>

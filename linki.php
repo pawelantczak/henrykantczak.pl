@@ -18,15 +18,15 @@
 						<td width="35%"><img alt="" hspace=3
 							src="images/henryk_antczak2a.jpg" border=0></td>
 						<td width="65%"><div id="tekst">
-								<br> <br> <a href="http://www.mlawa.pl/"> Urz¹d
-									Miasta M³awa www.mlawa.pl</a><br> <br> <a
-									href="http://www.mazovia.pl/"> Samorz¹d Województwa
+								<br> <br> <a href="http://www.mlawa.pl/"> UrzÄ…d
+									Miasta MÅ‚awa www.mlawa.pl</a><br> <br> <a
+									href="http://www.mazovia.pl/"> SamorzÄ…d WojewÃ³dztwa
 									Mazowieckiego www.mazovia.pl</a><br> <br> <a
 									href="http://www.psl.org.pl/"> Polskie Stronnictwo Ludowe
 									www.psl.org.pl</a><br> <br> <a
-									href="http://www.elaszymanik.pl/"> El¿bieta Szymanik
+									href="http://www.elaszymanik.pl/"> ElÅ¼bieta Szymanik
 									www.elaszymanik.pl</a><br> <br> <a
-									href="http://soplinski.blog.onet.pl"> Aleksander Sopliñski
+									href="http://soplinski.blog.onet.pl"> Aleksander SopliÅ„ski
 									www.soplinski.blog.onet.pl</a><br> <br> <br> <br>
 								<b>Henryk Antczak</b><br> <br> <br> <br> <img
 									src="images/czlowiek_jest_najwazniejszy3.png" border=0>
